@@ -32,3 +32,11 @@ def autocomplete (query):
 		data.append(r.hget("data",i))
 		
 	return data
+
+
+
+
+
+
+
+
